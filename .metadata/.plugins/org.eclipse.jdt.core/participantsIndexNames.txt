@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+C:\Java\webtutor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3376524881.index
+\LoginWebApp\src\main\resources
